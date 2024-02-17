@@ -1,10 +1,10 @@
 # Piano-Tiles-Game
 
 This simple Piano Tiles Game is written in C. 
+
 The game can be loaded up on a DE1-SOC board that is connected to a VGA display to be played using the push buttons. 
 The score a player has is displayed via the HEX display. 
 The Health bar status is displayed on the LED strip
-Random keypresses when no tile is at the end screen will be ignored. 
 
 It can also be loaded on [CPU-LATOR](https://cpulator.01xz.net/?sys=arm-de1soc&d_audio=48000) using the following configuration:
 * Architecture: ARMv7
@@ -16,9 +16,21 @@ It can also be loaded on [CPU-LATOR](https://cpulator.01xz.net/?sys=arm-de1soc&d
 Here is the opening screen
 ![alt text](image.png)
 
-Here is some of the gameplay visuals
+**Here are some of the gameplay visuals on CPULator**
+In Game Screen:
 ![alt text](image-1.png)
+
+Game Over Screen:
 ![alt text](image-2.png)
+
+Health Bar @ 100%:
+![alt text](image-3.png)
+
+Push Buttons Used:
+![alt text](image-4.png)
+
+Seven Segment Display for Tracking score:
+![alt text](image-5.png)
 
 
 To Start Game:
