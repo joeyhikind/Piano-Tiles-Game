@@ -14,22 +14,28 @@ It can also be loaded on [CPU-LATOR](https://cpulator.01xz.net/?sys=arm-de1soc&d
 
 
 Here is the opening screen
+
 ![alt text](image.png)
 
 **Here are some of the gameplay visuals on CPULator**
 In Game Screen:
+
 ![alt text](image-1.png)
 
 Game Over Screen:
+
 ![alt text](image-2.png)
 
 Health Bar @ 100%:
+
 ![alt text](image-3.png)
 
 Push Buttons Used:
+
 ![alt text](image-4.png)
 
 Seven Segment Display for Tracking score:
+
 ![alt text](image-5.png)
 
 
