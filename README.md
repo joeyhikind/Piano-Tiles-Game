@@ -18,6 +18,7 @@ Here is the opening screen
 ![alt text](image.png)
 
 **Here are some of the gameplay visuals on CPULator**
+
 In Game Screen:
 
 ![alt text](image-1.png)
